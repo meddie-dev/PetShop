@@ -9,7 +9,7 @@ root.render(
 
   <React.StrictMode>
     
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <BrowserRouter basename="/chichay">
       <App />
     </BrowserRouter>
     
